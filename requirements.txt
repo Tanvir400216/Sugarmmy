@@ -7,14 +7,12 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
-motor==2.3.0
-numpy
-opencv-python
-pillow==9.5.0
+motor
+pillow
 psutil
 py-tgcalls==0.9.7
 pykeyboard
-pyrogram==2.0.106
+pyrofork
 python-dotenv
 pyyaml
 requests
@@ -22,9 +20,6 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-uvloop
 yt-dlp
 youtube-search
 youtube-search-python
-pymongo==3.12.0
-nano
